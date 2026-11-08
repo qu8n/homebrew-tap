@@ -8,11 +8,11 @@ class Mddog < Formula
   on_macos do
     on_arm do
       url "https://github.com/qu8n/mddog/releases/download/v1.0.0/mdd-macos-arm64.tar.gz"
-      sha256 "1b8c1ff2d237d0798bdfd7f1539407feefd1a3595cdf39107af33bfc5e9ad1bb"
+      sha256 "1264491437c68754d56367c91ef8240a9633552cec2937658b1f7163b8a6c22c"
     end
     on_intel do
       url "https://github.com/qu8n/mddog/releases/download/v1.0.0/mdd-macos-x86_64.tar.gz"
-      sha256 "c291fb6b79270dc856a1427bcb4d452ea3241661a647aa53b5b3c55b85e085fe"
+      sha256 "ce7677e07cc686b1fb4126b187e8ee66bfde2f4dde605258f22bb461ea420c6c"
     end
   end
 
