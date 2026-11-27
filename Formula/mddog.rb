@@ -5,23 +5,23 @@ class Mddog < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/qu8n/mddog/releases/download/v1.5.1/mdd-macos-arm64.tar.gz"
-      sha256 "e791a728f36a82290e051f2bbc138e3091dcb49037a0cdec22ed9649d776d79d"
+      url "https://github.com/qu8n/mddog/releases/download/v1.6.0/mdd-macos-arm64.tar.gz"
+      sha256 "d84ac460e20d02000da701892c7f9135e94b8e82d9ce978ae8aa337c28667cee"
     end
     on_intel do
-      url "https://github.com/qu8n/mddog/releases/download/v1.5.1/mdd-macos-x86_64.tar.gz"
-      sha256 "e0a2826a045e8ab0b6f031a5f298fae6bf04eb46f291cc7c36e61445f640d8fd"
+      url "https://github.com/qu8n/mddog/releases/download/v1.6.0/mdd-macos-x86_64.tar.gz"
+      sha256 "4c78ba7b17457ffd0c19f2c8b094b040f676176e4b71ff41e98ad1d8c88dbe1f"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/qu8n/mddog/releases/download/v1.5.1/mdd-linux-arm64.tar.gz"
-      sha256 "e9052549476a14d470a6bfcd293c6bc08e42538a3f34cd4069c23cd81b2fecda"
+      url "https://github.com/qu8n/mddog/releases/download/v1.6.0/mdd-linux-arm64.tar.gz"
+      sha256 "cd6770bd59153b12e2da0c3d0f2fae64877b59f1f1099842c05cc06433ecf5de"
     end
     on_intel do
-      url "https://github.com/qu8n/mddog/releases/download/v1.5.1/mdd-linux-x86_64.tar.gz"
-      sha256 "a05abd288d6a2c818f15d0f750136997ee34cd79e85ebbc69712cab602a54a73"
+      url "https://github.com/qu8n/mddog/releases/download/v1.6.0/mdd-linux-x86_64.tar.gz"
+      sha256 "f99354bbb117bb93c28bdb305aa80c4e47fc3a4c3f1abc66d033bbc801b4e628"
     end
   end
 
